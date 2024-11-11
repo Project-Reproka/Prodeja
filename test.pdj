@@ -1,0 +1,18 @@
+("hello world")naran
+
+-- auš == 0
+auš 0 ravo
+
+-- jena == {"test", "good", "morning"}
+jena {"test", "good", "morning"} ravo
+
+-- while auš is not 5
+(auš 5 i ra)þi [
+  auš auš + 1 ravo
+  (auš)naran
+]
+
+-- for each iþoč in jena
+to(jenaði iþoč)šai [
+  (iþoč)naran
+]
