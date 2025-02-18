@@ -1,9 +1,9 @@
 ("hello world")naran
 
--- auš == 0
+-- auš = 0
 auš 0 ravo
 
--- jena == {"test", "good", "morning"}
+-- jena = {"test", "good", "morning"}
 jena {"test", "good", "morning"} ravo
 
 -- while auš is not 5
